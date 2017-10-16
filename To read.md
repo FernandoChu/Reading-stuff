@@ -6,16 +6,19 @@
 - Some Dennet Stuff
 - Some Chalmers stuff
 - Skepticism and the Veil of Perception, Huemer
-- Austin, Sense and Sensibilia
+- Austin, Sense and Sensibilia (in the link of "all of these")
 - Ayer, The problem of Knowledge
 - Ayer, The foundations of Empirical Knowledge
-- Ayer, Has Austin refuted the sense Datum theory
+- Ayer, Has Austin refuted the sense Datum theoryth
 - All of these http://selfpace.uconn.edu/class/percep/
+- Berkeley http://www.earlymoderntexts.com/assets/pdfs/berkeley1713.pdf
+- Hume, treatise
 
 # Philosophy of Language
 - Oxford Handbook of Philosophy of Language
 - The Philosophy of Language Martinich
 - Ayer, Language Truth and Logic
+- Some Chomsky
 - Tractatus
 
 # Logic
@@ -32,3 +35,6 @@
 
 # Epistemology
 
+# Ethics
+- Spinoza, maybe
+- Should search for some metaethics stuff
