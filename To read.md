@@ -20,10 +20,12 @@
 - Ayer, Language Truth and Logic
 - Some Chomsky
 - Tractatus
+- Maybe some more Rusell
 
 # Logic
 - Introduction to non classical Logic
 - Godels stuff
+- Need me some type theory stuff
 
 # Math
 - Some basic number theory stuff
