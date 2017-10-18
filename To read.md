@@ -1,17 +1,18 @@
 # Philosophy of Mind
 - Notable articles from Mind (https://en.wikipedia.org/wiki/Mind_(journal))
-- **Simulating Minds** https://www.amazon.com/Simulating-Minds-Philosophy-Neuroscience-Mindreading/dp/0195369831/ref=asap_bc?ie=UTF8
+- **Simulating Minds, Goldman** https://www.amazon.com/Simulating-Minds-Philosophy-Neuroscience-Mindreading/dp/0195369831/ref=asap_bc?ie=UTF8
 - The1 child's theory of mind
 - The Oxford Handbook of Philosophy of Cognitive Science
 - Some book from Alison Gopnik
-- Some Dennet Stuff
-- Some Chalmers stuff
-- Skepticism and the Veil of Perception, Huemer (https://www.amazon.com/dp/0742512533/ or https://zodml.org/sites/default/files/%5BMichael_Huemer%5D_Skepticism_and_the_Veil_of_Percep.pdf)
+- Bacteria bach to back, Dennett https://www.amazon.com/Bacteria-Bach-Back-Evolution-Minds/dp/0393242072/
+- Conciousness explained, Dennet https://www.amazon.com/Consciousness-Explained-Daniel-C-Dennett/dp/0316180661/
+- Conscious Mind, Chalmers https://www.amazon.com/Conscious-Mind-Search-Fundamental-Philosophy/dp/0195117891/
+- Skepticism and the Veil of Perception, Huemer (https://www.amazon.com/dp/0742512533/ or https://zodml.org/sites/default/files/%5BMichael_Huemer%5D_Skepticism_and_the_Veil_of_Perce33p.pdf)
 - Austin, Sense and Sensibilia (in the link of "all of these")
 - Ayer, The problem of Knowledge
 - Ayer, The foundations of Empirical Knowledge
 - Ayer, Has Austin refuted the sense Datum theoryth
-- All of these http://selfpace.uconn.edu/class/percep/
+- All of these http://selfpace.uconn.edu/class/percep/ http://consc.net/guide/ http://consc.net/philosophy-of-mind-classical-and-contemporary-readings/
 - Berkeley http://www.earlymoderntexts.com/assets/pdfs/berkeley1713.pdf
 - Hume, treatise
 
