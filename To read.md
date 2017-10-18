@@ -1,6 +1,7 @@
 # Philosophy of Mind
 - Notable articles from Mind (https://en.wikipedia.org/wiki/Mind_(journal))
-- The child's theory of mind
+- **Simulating Minds** https://www.amazon.com/Simulating-Minds-Philosophy-Neuroscience-Mindreading/dp/0195369831/ref=asap_bc?ie=UTF8
+- The1 child's theory of mind
 - The Oxford Handbook of Philosophy of Cognitive Science
 - Some book from Alison Gopnik
 - Some Dennet Stuff
@@ -16,7 +17,7 @@
 
 # Philosophy of Language
 - Oxford Handbook of Philosophy of Language
-- The Philosophy of Language Martinich
+- **The Philosophy of Language, Martinich** https://www.amazon.com/exec/obidos/ASIN/0195188306/ref=nosim/mitopencourse-20
 - Ayer, Language Truth and Logic
 - Some Chomsky
 - Tractatus
@@ -24,7 +25,7 @@
 
 # Logic
 - Introduction to non classical Logic
-- Godels stuff
+- Godels stuff (https://www.math.wisc.edu/~miller/old/m571-08/smith.pdf seems good)
 - Need me some type theory stuff
 
 # Math
