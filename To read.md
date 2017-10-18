@@ -6,7 +6,7 @@
 - Some book from Alison Gopnik
 - Some Dennet Stuff
 - Some Chalmers stuff
-- Skepticism and the Veil of Perception, Huemer
+- Skepticism and the Veil of Perception, Huemer (https://www.amazon.com/dp/0742512533/ or https://zodml.org/sites/default/files/%5BMichael_Huemer%5D_Skepticism_and_the_Veil_of_Percep.pdf)
 - Austin, Sense and Sensibilia (in the link of "all of these")
 - Ayer, The problem of Knowledge
 - Ayer, The foundations of Empirical Knowledge
