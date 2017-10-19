@@ -1,5 +1,5 @@
 # Philosophy of Mind
-- Notable articles from Mind (https://en.wikipedia.org/wiki/Mind_(journal))
+- (10) Notable articles from Mind (https://en.wikipedia.org/wiki/Mind_(journal))
 - **Simulating Minds, Goldman** https://www.amazon.com/Simulating-Minds-Philosophy-Neuroscience-Mindreading/dp/0195369831/ref=asap_bc?ie=UTF8
 - The1 child's theory of mind
 - The Oxford Handbook of Philosophy of Cognitive Science
@@ -14,12 +14,12 @@
 - Ayer, The foundations of Empirical Knowledge
 - Ayer, Has Austin refuted the sense Datum theory
 - All of these http://consc.net/guide/ http://consc.net/philosophy-of-mind-classical-and-contemporary-readings/
-- Berkeley http://www.earlymoderntexts.com/assets/pdfs/berkeley1713.pdf
-- Hume, treatise
+- (10) Berkeley http://www.earlymoderntexts.com/assets/pdfs/berkeley1713.pdf
+- (10) Hume, treatise
 
 # Philosophy of Language
 - Oxford Handbook of Philosophy of Language
-- **The Philosophy of Language, Martinich** https://www.amazon.com/exec/obidos/ASIN/0195188306/ref=nosim/mitopencourse-20
+- (10) **The Philosophy of Language, Martinich** https://www.amazon.com/exec/obidos/ASIN/0195188306/ref=nosim/mitopencourse-20
 - Ayer, Language, Truth and Logic http://s-f-walker.org.uk/pubsebooks/pdfs/ayerLTL.pdf
 - Some Chomsky
 - Tractatus
