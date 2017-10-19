@@ -25,6 +25,7 @@
 - Tractatus
 - **Naming and Necessity, Kripke** https://www.amazon.com/Naming-Necessity-Saul-Kripke/dp/0631128018
 - Maybe some more Rusell
+- Kaplan, Lewis, Carnap, Stalkner
 
 # Logic
 - Introduction to non classical Logic
