@@ -1,7 +1,7 @@
 # Philosophy of Mind
 - (10) Notable articles from Mind (https://en.wikipedia.org/wiki/Mind_(journal))
 - **Simulating Minds, Goldman** https://www.amazon.com/Simulating-Minds-Philosophy-Neuroscience-Mindreading/dp/0195369831/ref=asap_bc?ie=UTF8
-- The1 child's theory of mind
+- The child's theory of mind
 - The Oxford Handbook of Philosophy of Cognitive Science
 - The Philosophical Baby, Gopnik https://www.amazon.com/Philosophical-Baby-Childrens-Minds-Meaning/dp/0312429843
 - Bacteria bach to back, Dennett https://www.amazon.com/Bacteria-Bach-Back-Evolution-Minds/dp/0393242072/
@@ -55,3 +55,4 @@
 
 # Usefull Links
 http://onlinebooks.library.upenn.edu/
+http://www.uni-regensburg.de/philosophie-kunst-geschichte-gesellschaft/philosophie/medien/analytic.pdf (not so sure of this list tbh)
