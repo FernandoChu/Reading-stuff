@@ -7,13 +7,13 @@
 - Bacteria bach to back, Dennett https://www.amazon.com/Bacteria-Bach-Back-Evolution-Minds/dp/0393242072/
 - Conciousness explained, Dennet https://www.amazon.com/Consciousness-Explained-Daniel-C-Dennett/dp/0316180661/
 - Conscious Mind, Chalmers https://www.amazon.com/Conscious-Mind-Search-Fundamental-Philosophy/dp/0195117891/
-- Skepticism and the Veil of Perception, Huemer (https://www.amazon.com/dp/0742512533/ or https://zodml.org/sites/default/files/%5BMichael_Huemer%5D_Skepticism_and_the_Veil_of_Perce33p.pdf)
+- Skepticism and the Veil of Perception, Huemer (https://www.amazon.com/dp/0742512533/ or https://zodml.org/sites/default/files/%5BMichael_Huemer%5D_Skepticism_and_the_Veil_of_Percep.pdf)
 - Austin, Sense and Sensibilia (in the link of "all of these")
 - **Sellars, Emperism and Philosophy of Mind** https://www.amazon.com/Empiricism-Philosophy-Mind-Wilfrid-Sellars/dp/0674251555
 - Ayer, The problem of Knowledge
 - Ayer, The foundations of Empirical Knowledge
 - Ayer, Has Austin refuted the sense Datum theory
-- All of these http://consc.net/guide/ http://consc.net/philosophy-of-mind-classical-and-contemporary-readings/
+- All of these http://consc.net/guide/ http://consc.net/philosophy-of-mind-classical-and-contemporary-readings/ http://selfpace.uconn.edu/class/percep/
 - (10) Berkeley http://www.earlymoderntexts.com/assets/pdfs/berkeley1713.pdf
 - (10) Hume, treatise
 
