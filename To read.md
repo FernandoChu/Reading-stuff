@@ -42,6 +42,7 @@
 - Kant
 - Maybe some Hegel?
 - Summary of conty stuff
+- Some articles from Analysis https://academic.oup.com/analysis/pages/top_downloaded_articles
 
 # Epistemology
 
