@@ -14,7 +14,6 @@
 - Ayer, The foundations of Empirical Knowledge
 - Ayer, Has Austin refuted the sense Datum theory
 - All of these http://consc.net/guide/ http://consc.net/philosophy-of-mind-classical-and-contemporary-readings/ http://selfpace.uconn.edu/class/percep/
-- (10) Berkeley http://www.earlymoderntexts.com/assets/pdfs/berkeley1713.pdf
 - (10) Hume, treatise
 
 # Philosophy of Language
@@ -34,6 +33,7 @@
 - Need me some type theory stuff
 
 # Metaphysics
+- Something about mathematical platonism https://plato.stanford.edu/entries/platonism-mathematics/
 - Every Thing Must Go, https://www.amazon.com/Every-Thing-Must-Metaphysics-Naturalized/dp/0199573093
 
 # Math
