@@ -58,3 +58,4 @@
 # Usefull Links
 http://onlinebooks.library.upenn.edu/
 http://www.uni-regensburg.de/philosophie-kunst-geschichte-gesellschaft/philosophie/medien/analytic.pdf (not so sure of this list tbh)
+https://www.federaljack.com/ebooks/Consciousness%20Books%20Collection/Chalmers,%20David%20-%20Collection%20Of%20Papers%20Concerning%20Consciousness.pdf (not reading all of these)
