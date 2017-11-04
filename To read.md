@@ -44,6 +44,7 @@
 - Maybe some Hegel?
 - Summary of conty stuff
 - Some articles from Analysis https://academic.oup.com/analysis/pages/top_downloaded_articles
+- Some overview of the social context https://www.amazon.com/Story-Philosophy-Touchstone-Books-Paperback/dp/067120159X/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1509813454&sr=8-2
 
 # Epistemology
 
