@@ -35,6 +35,7 @@
 # Metaphysics
 - Something about mathematical platonism https://plato.stanford.edu/entries/platonism-mathematics/
 - Every Thing Must Go, https://www.amazon.com/Every-Thing-Must-Metaphysics-Naturalized/dp/0199573093
+- Alvin Platinga, The nature of necessity
 
 # Math
 - Some basic number theory stuff
