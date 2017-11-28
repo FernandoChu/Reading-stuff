@@ -57,6 +57,9 @@
 - Priciples of Neural Science https://www.amazon.com/Principles-Neural-Science-Fifth-Kandel/dp/0071390111
 - Some Physics, chemistry
 
+# Econ
+- Seems good https://www.amazon.com/Entrepreneurial-State-Debunking-Public-Private/dp/1610396138
+
 # Usefull Links
 http://onlinebooks.library.upenn.edu/
 http://www.uni-regensburg.de/philosophie-kunst-geschichte-gesellschaft/philosophie/medien/analytic.pdf (not so sure of this list tbh)
