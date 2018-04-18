@@ -1,4 +1,5 @@
 # Philosophy of Mind
+## Philosophish
 - (10) Notable articles from Mind (https://en.wikipedia.org/wiki/Mind_(journal))
 - The Oxford Handbook of Philosophy of Cognitive Science
 - Conciousness explained, Dennet
@@ -17,7 +18,7 @@
 - Oxford Handbook of Philosophy of Language
 - The Philosophy of Language, Martinich
 - Some Chomsky
-- Kaplan, Lewis, Carnap, Stalkner
+- Carnap, Kaplan, Lewis, Stalkner
 - (+) Finish reading Rigid designators and 2-d semantics
 
 # Philosophy of perception
@@ -50,8 +51,8 @@
 # Logic
 - Teach Yourself Logic http://www.logicmatters.net/resources/pdfs/TeachYourselfLogic2017.pdf
 - Introduction to non classical Logic
-- Proof theory
-- Model Theory
+- Proof theory (Natural deduction, Prawitz)
+- Model Theory (Hodges)
 - Category Theory
 - Type Theory
 
@@ -78,6 +79,5 @@
 - Seems good https://www.amazon.com/Entrepreneurial-State-Debunking-Public-Private/dp/1610396138
 
 # Usefull Links
-http://onlinebooks.library.upenn.edu/
 http://www.uni-regensburg.de/philosophie-kunst-geschichte-gesellschaft/philosophie/medien/analytic.pdf (not so sure of this list tbh)
 https://www.federaljack.com/ebooks/Consciousness%20Books%20Collection/Chalmers,%20David%20-%20Collection%20Of%20Papers%20Concerning%20Consciousness.pdf (not reading all of these)
