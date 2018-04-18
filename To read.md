@@ -75,6 +75,10 @@
 - Quantum Mechanics
 - General relativity
 
+# Programming
+- Emulation (https://stackoverflow.com/questions/448673/how-do-emulators-work-and-how-are-they-written)
+- Graphics pipelines (http://duriansoftware.com/joe/An-intro-to-modern-OpenGL.-Chapter-1:-The-Graphics-Pipeline.html)
+
 # Econ
 - Seems good https://www.amazon.com/Entrepreneurial-State-Debunking-Public-Private/dp/1610396138
 
