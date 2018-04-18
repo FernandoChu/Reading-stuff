@@ -22,6 +22,7 @@
 - (+) Finish reading Rigid designators and 2-d semantics
 
 # Philosophy of perception
+- Philosophy of perception, Fish
 - Sellars, Emperism and Philosophy of Mind
 - Austin, Sense and Sensibilia
 - Ayer, Has Austin refuted the sense Datum theory
