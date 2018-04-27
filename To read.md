@@ -53,7 +53,6 @@
 - Teach Yourself Logic http://www.logicmatters.net/resources/pdfs/TeachYourselfLogic2017.pdf
 - Introduction to non classical Logic
 - Proof theory (Natural deduction, Prawitz)
-- Model Theory (Hodges)
 - Category Theory
 - Type Theory
 
@@ -65,8 +64,11 @@
 - Some overview of the social context https://www.amazon.com/Story-Philosophy-Touchstone-Books-Paperback/dp/067120159X/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1509813454&sr=8-2
 
 # Math
+- Model Theory: First some Marker and then return to Hodges
+- Topology: Munkres first. For algebraic topology Hatcher'
+- Abstract algebra: Gallian first, then Dummit
+- Combinatorics and graph theory: Got three, check whatever
 - Some basic number theory stuff
-- Topology
 - Proofs from the book
 
 # Science
