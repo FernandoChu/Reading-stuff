@@ -86,7 +86,7 @@
 - Seems good https://www.amazon.com/Entrepreneurial-State-Debunking-Public-Private/dp/1610396138
 
 # Trabajo de filosofia de lenguaje
-- Leer primero a Weinberg. Luego leer (no en este orden) a Overgaard, Williamson y Bennett. Leer meaning, frames, and conceptual reps; el articulo de Stuart, checkear el resto del libro a ver que tal (leer a barsalou antes si se leera el libro)
+- Leer primero a Weinberg. Luego leer (no en este orden) a Overgaard, Williamson y Bennett. Leer meaning, frames, and conceptual reps; el articulo de Stuart, checkear el resto del libro a ver que tal (leer a barsalou antes si se leera el libro). Tratar de conseguir el articul 'armchair metaphysics' de Jackson. Checkear el Cambridge companion to philosophical methodology.
 
 # Usefull Links
 http://www.uni-regensburg.de/philosophie-kunst-geschichte-gesellschaft/philosophie/medien/analytic.pdf (not so sure of this list tbh)
