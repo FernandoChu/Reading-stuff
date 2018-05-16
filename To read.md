@@ -87,6 +87,7 @@
 
 # Trabajo de filosofia de lenguaje
 - Leer primero a Weinberg. Luego leer (no en este orden) a Overgaard, Williamson y Bennett. Leer meaning, frames, and conceptual reps; el articulo de Stuart, checkear el resto del libro a ver que tal (leer a barsalou antes si se leera el libro). Tratar de conseguir el articul 'armchair metaphysics' de Jackson. Checkear el Cambridge companion to philosophical methodology.
+- Check the 'Experimental philosophy' edited by knobe. Try to get the 'experimental philosophy and its critics' by Horvath. 'Are philosophers expert intuiters?' is in that book. Check if it's worth reading https://philpapers.org/rec/NAGIAE
 
 # Usefull Links
 http://www.uni-regensburg.de/philosophie-kunst-geschichte-gesellschaft/philosophie/medien/analytic.pdf (not so sure of this list tbh)
