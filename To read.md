@@ -68,6 +68,7 @@
 - Topology: Munkres first. For algebraic topology Hatcher'
 - Abstract algebra: Gallian first, then Dummit
 - Combinatorics and graph theory: Got three, check whatever
+- Randomness: Ming li, the kolmogorov stuff 
 - Some basic number theory stuff
 - Proofs from the book
 
