@@ -41,6 +41,7 @@
 
 # Epistemology
 - Epistemology, Sosa
+- On self knowledge: https://ocw.mit.edu/courses/linguistics-and-philosophy/24-805-topics-in-epistemology-self-knowledge-fall-2015/readings/
 
 # Philosophy of Science
 - Khun, Feyerabend (?)
