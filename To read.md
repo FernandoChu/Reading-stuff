@@ -2,6 +2,7 @@
 ## Philosophish
 - (10) Notable articles from Mind (https://en.wikipedia.org/wiki/Mind_(journal))
 - The Oxford Handbook of Philosophy of Cognitive Science
+- Ryle, The concept of mind
 - Conciousness explained, Dennet
 - Conscious Mind, Chalmers
 - Ayer, The problem of Knowledge
