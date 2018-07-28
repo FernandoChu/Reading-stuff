@@ -57,6 +57,7 @@
 - Proof theory (Natural deduction, Prawitz)
 - Category Theory
 - Type Theory
+- Computability: First check Enderton's then read Cooper's computability theory
 
 # General Philosophy
 - Kant
