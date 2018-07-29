@@ -77,6 +77,7 @@
 
 # Science
 - Priciples of Neural Science, Kandel
+- Music and the Brain, Scientific American
 - Cosmology
 - Physics
 - Quantum Mechanics
