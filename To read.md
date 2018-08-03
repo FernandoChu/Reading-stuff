@@ -58,6 +58,7 @@
 - Category Theory
 - Type Theory
 - Computability: First check Enderton's then read Cooper's computability theory
+- Lattice theory: (Kinda niche, not really sure if worth it) Start with Davey and Priestley's book and then check Gratzer's for advanced topics.
 
 # General Philosophy
 - Kant
