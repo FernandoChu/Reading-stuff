@@ -93,6 +93,7 @@
 
 # Literature
 - Realismo magico: Jorge Amado, sus tres obras mas importantes son 'Gabriela', 'Doña Flor y sus dos maridos' y 'Tieta de Agreste'
+- Born on a Blue Day - Dammet
 
 
 # Trabajo de filosofia de lenguaje
