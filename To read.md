@@ -56,8 +56,10 @@
 - Introduction to non classical Logic
 - Proof theory (Natural deduction, Prawitz)
 - Category Theory
-- Type Theory
+- Type Theory: Two routes here, first check Hindley and Seldin's Lambda calculus and then this http://www.paultaylor.eu/stable/Proofs+Types
+- Type Theory: route 2 http://purelytheoretical.com/sywtltt.html
 - Computability: First check Enderton's then read Cooper's computability theory
+- Second order logic: Finish Enderton's 4th chapter and then go to Shapiro's book. Simpson's book seems a little bit harder and should only be tackled once you learn topology and measure theory.
 - Lattice theory: (Kinda niche, not really sure if worth it) Start with Davey and Priestley's book and then check Gratzer's for advanced topics.
 
 # General Philosophy
