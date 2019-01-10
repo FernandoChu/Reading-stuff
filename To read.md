@@ -58,6 +58,7 @@
 - Second order logic: Finish Enderton's 4th chapter and then go to Shapiro's book. Simpson's book seems a little bit harder and should only be tackled once you learn topology and measure theory.
 - Lattice theory: (Kinda niche, not really sure if worth it now) Start with Davey and Priestley's book and then check Gratzer's for advanced topics. Continuos Lattices are a thing, check Dana Scott.
 - Proof theory (Natural deduction, Prawitz)
+- https://www.nature.com/articles/s42256-018-0002-3 looks good
 - Category Theory
 ## Philosophical
 - Something about mathematical platonism https://plato.stanford.edu/entries/platonism-mathematics/
