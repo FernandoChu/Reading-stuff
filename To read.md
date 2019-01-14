@@ -92,6 +92,7 @@
 - Physics
 - Quantum Mechanics
 - General relativity
+- The Horse, the Wheel, and Language. For the evolution of protoindoeuropean languages, not sure, search for alternatives
 
 # Programming
 - Emulation (https://stackoverflow.com/questions/448673/how-do-emulators-work-and-how-are-they-written)
