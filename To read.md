@@ -111,6 +111,11 @@
 - Check the 'Experimental philosophy' edited by knobe. Try to get the 'experimental philosophy and its critics' by Horvath. 'Are philosophers expert intuiters?' is in that book. Check if it's worth reading https://philpapers.org/rec/NAGIAE Maybe check an article of Bealer
 - View from nowhere - nagel, y que ciertos autores le han respondido
 
+# Languages
+## Latin
+- Read Terence and Plautus works as reference
+
+
 # Usefull Links
 http://www.uni-regensburg.de/philosophie-kunst-geschichte-gesellschaft/philosophie/medien/analytic.pdf (not so sure of this list tbh)
 https://www.federaljack.com/ebooks/Consciousness%20Books%20Collection/Chalmers,%20David%20-%20Collection%20Of%20Papers%20Concerning%20Consciousness.pdf (not reading all of these)
