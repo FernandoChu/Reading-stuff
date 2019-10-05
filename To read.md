@@ -31,6 +31,7 @@
 - http://selfpace.uconn.edu/class/percep/
 
 # Metaphysics
+- View from nowhere, Nagel
 ## General Ontology
 - Every Thing Must Go, https://www.amazon.com/Every-Thing-Must-Metaphysics-Naturalized/dp/0199573093
 ## Possible Worlds
@@ -105,11 +106,6 @@
 - Realismo magico: Jorge Amado, sus tres obras mas importantes son 'Gabriela', 'Doña Flor y sus dos maridos' y 'Tieta de Agreste'
 - Born on a Blue Day - Dammet
 
-
-# Trabajo de filosofia de lenguaje
-- Leer primero a Weinberg. Luego leer (no en este orden) a Overgaard, Williamson y Bennett. Leer meaning, frames, and conceptual reps; el articulo de Stuart, checkear el resto del libro a ver que tal (leer a barsalou antes si se leera el libro). Tratar de conseguir el articul 'armchair metaphysics' de Jackson. Checkear el Cambridge companion to philosophical methodology.
-- Check the 'Experimental philosophy' edited by knobe. Try to get the 'experimental philosophy and its critics' by Horvath. 'Are philosophers expert intuiters?' is in that book. Check if it's worth reading https://philpapers.org/rec/NAGIAE Maybe check an article of Bealer
-- View from nowhere - nagel, y que ciertos autores le han respondido
 
 # Languages
 ## Latin
